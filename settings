@@ -1,0 +1,15 @@
+Paste This in the SETTINGS at the bottom when you scroll on the LEFT SIDE of the GUI
+
+my color and bg settings on the GUI
+
+{
+    "backgroundColor": "Black",
+    "cheatList": "none",
+    "infoColor": "",
+    "defaultButton": "none",
+    "enabledButton": "green",
+    "disabledButton": "rred",
+    "textColor": "red",
+    "inputColor": "white",
+    "contentBackground": "none"
+}
