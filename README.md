@@ -6,4 +6,4 @@
 
 
 # Your average GUI
-<font color="purple">
+<font color="red">
