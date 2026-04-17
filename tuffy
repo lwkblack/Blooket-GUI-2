@@ -5,7 +5,7 @@
         if (!arguments[1].includes("s.blooket.com/rc"))
             return wfcall.apply(this, arguments);
     }
-    if (console.log("%c crm´s Blooket Hacks / Cheats %c\n	Made by lwkblack (crm) on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/lwkblack/Blooket-GUI-2/", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c crm´s Blooket Hacks / Cheats %c\n	Made by lwkblack (crm) on GitHub", "color: #ff0000; font-size: 3rem", "color: #ff0000; font-size: 1rem"), console.log("%c	tuffy", "color: #ff0000; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/lwkblack/Blooket-GUI-2/", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var e, t, a, o, r, i, n, s, e = document.createElement("iframe"), t = (document.body.appendChild(e), window.clearId = window.setInterval(() => {}, 0)); t--;)
             e.contentWindow.clearInterval.call(window, t);
         e.remove()
@@ -15,7 +15,7 @@
         const link = document.createElement('link');
         link.setAttribute('rel', 'stylesheet');
         link.setAttribute('type', 'text/css');
-        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Nunito:400,700|Titan+One|Creepster|Satisfy|Eczar:700');
+        link.setAttribute('href', 'link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet');
         document.head.appendChild(link);
     })()
 
@@ -1317,7 +1317,7 @@
                     }
                     ())[1].children[0]._owner;
                 [...document.querySelectorAll('[class*="answerContainer"]')].forEach((a, o) => {
-                    (e.question || t.client.question).correctAnswers.includes((e.question || t.client.question).answers[o]) ? a.style.backgroundColor = "rgb(0, 207, 119)" : a.style.backgroundColor = "rgb(189, 15, 38)"
+                    (e.question || t.client.question).correctAnswers.includes((e.question || t.client.question).answers[o]) ? a.style.backgroundColor = "rgb(0, 0, 0)" : a.style.backgroundColor = "rgb(0, 0, 0)"
                 })
             }
         }, {
@@ -1537,7 +1537,7 @@
                     o.style.bottom = "20px",
                     o.style.right = "20px",
                     o.style.width = "300px",
-                    o.style.backgroundColor = "#fff",
+                    o.style.backgroundColor = "#000",
                     o.style.border = "1px solid #ccc",
                     o.style.boxShadow = "0px 0px 10px rgba(0, 0, 0, 0.2)",
                     r.addEventListener("click", () => {
@@ -7524,3 +7524,4 @@
             C.alerts?.[0].addLog("Blooket Cheat Report Blocked!")
         }
 })();
+
